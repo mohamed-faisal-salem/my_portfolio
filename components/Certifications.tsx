@@ -12,7 +12,7 @@ const Certifications: React.FC = () => {
       duration: '17 Hours',
       date: '07/2025',
       skills: ['Scikit-learn', 'Regression', 'Clustering'],
-      pdfUrl: '/certificates/machine-learning-python-certificate.pdf',
+      pdfUrl: '/machine-learning-python-certificate.pdf',
       icon: 'fas fa-brain'
     },
     {
@@ -22,7 +22,7 @@ const Certifications: React.FC = () => {
       duration: '22 Hours',
       date: '09/2025',
       skills: ['Tensors', 'Backpropagation', 'Optimizers'],
-      pdfUrl: '/certificates/neural-networks-certificate.pdf',
+      pdfUrl: '/neural-networks-certificate.pdf',
       icon: 'fas fa-network-wired'
     },
     {
@@ -32,7 +32,7 @@ const Certifications: React.FC = () => {
       duration: '1.5 Hours',
       date: '09/2025',
       skills: ['AI Strategy', 'Machine Learning Basics'],
-      pdfUrl: '/certificates/ai-for-everyone-certificate.pdf',
+      pdfUrl: '/ai-for-everyone-certificate.pdf',
       icon: 'fas fa-robot'
     }
   ];
